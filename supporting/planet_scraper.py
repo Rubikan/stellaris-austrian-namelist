@@ -12,6 +12,7 @@ def should_print(row):
     return True
 
 def parse_planetnames():
+    print("Parsing planet names")
     url = "https://www.statistik.at/verzeichnis/reglisten/ortsliste.csv"
     namelist = ""
     print("Pulling CSV from: " + url)

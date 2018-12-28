@@ -3,6 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 
 def parse_names():
+    print("Parsing second names")
     url_without_page = "https://namenskarten.lima-city.at/oesterreichs-haeufigste-nachnamen.php?p="
     namelist = ""
     for i in range(100):

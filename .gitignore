@@ -1,5 +1,7 @@
-# Don't commit the generated .txt files
+# Don't commit the generated files and tempfiles
 supporting/*.txt
+supporting/*.csv
+supporting/*.xlsx
 
 # VS Code
 .vscode/

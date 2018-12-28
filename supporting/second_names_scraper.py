@@ -15,7 +15,7 @@ def parse_names():
                 continue
             name_in_column = BeautifulSoup(str(tds[1].contents[0]), "html.parser").findAll("a")[0].text
             print(name_in_column)
-            print(name_in_column, file=output, sep=" ", end=" ")
+            namelist = namelist +  name_in_column + " "
     return namelist
 
 with open('second_names.txt', 'w') as output:

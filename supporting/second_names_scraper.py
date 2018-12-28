@@ -22,5 +22,5 @@ def parse_names():
             namelist = namelist +  name_in_column + " "
     return namelist
 
-with open('second_names.txt', 'w') as output:
+with open("second_names.txt", "w") as output:
     print(parse_names(), file=output)

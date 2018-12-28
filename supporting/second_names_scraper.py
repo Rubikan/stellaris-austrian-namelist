@@ -1,3 +1,4 @@
+import re
 import requests
 from bs4 import BeautifulSoup
 
@@ -13,10 +14,13 @@ def parse_names():
             tds = row.findAll("td")
             if not tds:
                 continue
-            name_in_column = BeautifulSoup(str(tds[1].contents[0]), "html.parser").findAll("a")[0].text
+            name_in_column = BeautifulSoup(str(tds[1].contents[0]), "html.parser").findAll("a")[0].text           
+            # Check for spaces to surround the name with quotation marks
+            if re.search(r"\s", name_in_column):
+                name_in_column = "\"" + name_in_column + "\""
             print(name_in_column)
             namelist = namelist +  name_in_column + " "
     return namelist
 
 with open('second_names.txt', 'w') as output:
-    print(parse_names(), file=output, sep=" ", end=" ")
+    print(parse_names(), file=output)

@@ -2,7 +2,7 @@ import re
 import requests
 from bs4 import BeautifulSoup
 
-def parse_names():
+def parse_second_names():
     print("Parsing second names")
     url_without_page = "https://namenskarten.lima-city.at/oesterreichs-haeufigste-nachnamen.php?p="
     namelist = ""
@@ -24,4 +24,4 @@ def parse_names():
     return namelist
 
 with open("second_names.txt", "w") as output:
-    print(parse_names(), file=output)
+    print(parse_second_names(), file=output)

@@ -16,3 +16,4 @@ This repositoriy contains two subdirectories:
 * https://namenskarten.lima-city.at/
 * http://www.statistik.at/verzeichnis/reglisten/ortsliste.csv
 * https://www.statistik.at/web_de/statistiken/menschen_und_gesellschaft/bevoelkerung/geborene/vornamen/index.html
+* http://www.a-winkler.at/presse/13_solid%202017_top%20150%20bauunternehmen_platz%20135.pdf (Not used in a script, I just needed a few names for constructors)

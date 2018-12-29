@@ -3,6 +3,19 @@
 
 austrian_namelist = {
 
+    alias = "Austrian"
+
+    ### SHIPS
+
+    ship_names = {
+        generic = {
+
+        }
+        constructor = {
+            Alpine Auböck Bernegger "Blaue Lagune" Brausewetter Elk Felbermayr Fröschl Gerstl Glorit Granit Habau Haider Hartl Herbitschek Hinteregger Implenia Kirschdorfer Kostmann MABA Maculan Mandlbauer Massivbau Pittel Porr Rhomberg Sandler Sedlak Strabag Swietelsky Teerag-Asdag Unger Voitl Waagner-Biro Wolf Zeman
+        }
+    }
+
     ### PLANETS
 
     planet_names = {
@@ -16,7 +29,7 @@ austrian_namelist = {
     ### FLEETS
 
     fleet_names = {
-        sequential_name = "%O% Raumschiffbataillon"
+        sequential_name = "Raumschiffbataillon %C%"
 	}
 
     ### ARMIES

@@ -1,3 +1,6 @@
+### Austrian
+### Names collected from various datasources. For more info visit https://github.com/Rubikan/stellaris-austrian-namelist
+
 austrian_namelist = {
 
     ### PLANETS
@@ -10,9 +13,57 @@ austrian_namelist = {
         }
     }
 
+    ### FLEETS
+
+    fleet_names = {
+        sequential_name = "%O% Raumschiffbataillon"
+	}
+
     ### ARMIES
     
     army_names = {
+        assault_army = {
+			sequential_name = "Jägerbataillon %C%"
+		}
+        defense_army = {
+            sequential_name = "Artilleriebataillon %C%"
+        }
+        slave_army = {
+			sequential_name = "Sklavenbataillon %C%"
+		}		
+		clone_army = { 
+			sequential_name = "Klonbataillon %C%"
+		}		
+		robotic_army = {
+			sequential_name = "Mechanisches Jägerbataillon %C%"
+		}
+		robotic_defense_army = {
+			sequential_name = "Mechanisches Artilleriebataillon %C%"
+		}	
+		psionic_army = { 
+			sequential_name = "Psionikerbataillon %C%"
+		}
+		xenomorph_army = {
+			sequential_name = "Xenomorphbataillon %C%"
+		}
+		gene_warrior_army = {
+			sequential_name = "Genkriegerbataillon %C%"
+		}
+		occupation_army = {
+			sequential_name = "Besetzungsbataillon %C%"
+		}
+		robotic_occupation_army = {
+			sequential_name = "Mechanisches Besetzungsbataillon %C%"
+		}
+		primitive_army = {
+			sequential_name = "Primitve Armee %C%"
+		}
+		industrial_army = {
+			sequential_name = "Industrielle Armee %C%"
+		}
+		postatomic_army = {
+			sequential_name = "Postapokalyptische Armee %C%"
+		}
     }
 
 	### CHARACTERS

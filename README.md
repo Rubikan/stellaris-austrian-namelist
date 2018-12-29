@@ -18,3 +18,4 @@ This repositoriy contains two subdirectories:
 * https://www.statistik.at/web_de/statistiken/menschen_und_gesellschaft/bevoelkerung/geborene/vornamen/index.html
 * http://www.a-winkler.at/presse/13_solid%202017_top%20150%20bauunternehmen_platz%20135.pdf (Not used in a script, used for constructors)
 * https://de.wikipedia.org/wiki/Liste_der_Schiffe_der_k.u.k._Kriegsmarine (Not used in a script, used for generic shipnames)
+* https://de.wikipedia.org/wiki/Liste_%C3%B6sterreichischer_Erfinder_und_Entdecker (Not ussed in a script, used for science shipnames)

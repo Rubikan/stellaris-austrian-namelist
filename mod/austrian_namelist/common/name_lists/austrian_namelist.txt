@@ -14,6 +14,9 @@ austrian_namelist = {
         constructor = {
             Alpine Auböck Bernegger "Blaue Lagune" Brausewetter Elk Felbermayr Fröschl Gerstl Glorit Granit Habau Haider Hartl Herbitschek Hinteregger Implenia Kirschdorfer Kostmann MABA Maculan Mandlbauer Massivbau Pittel Porr Rhomberg Sandler Schreiner Sedlak Strabag Swietelsky Teerag-Asdag Unger Voitl Waagner-Biro Wolf Zeman
         }
+        science = {
+            Altekruse "Auer von Welsbach" Bárány Baumann Beer Burstyn Djerassi Doppler Eisler Frenzl Freud "Karl von Frisch" "Otto Frisch" Fürst Giesl-Gieslingen Hatschek Hayek Hess Hornbostel Kaplan Kempelen Kordesch Kravogl Kuhn Lamarr Landsteiner Ledwinka Lenard Lorenz Mach Madersperger Mannlicher Meißner Meitner Mendel Mitterhofer Reichenstein Musger Pauli Perutz Pirquet Pregl Ressel Rumpler Sacher Schneider Schrödinger Suess Tauschek Thonet Valier Wagner-Jauregg Zsigmondy
+        }
     }
 
     ### PLANETS

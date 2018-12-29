@@ -9,10 +9,10 @@ austrian_namelist = {
 
     ship_names = {
         generic = {
-
+            Theresia Novara Kaiser Radetzky Adria Donau Monarch Wien Budapest Habsburg Árpád Babenberg "Erzherzog Karl" "Erzherzog Ferdinand Max" "Erzherzog Friedrich" Zrinyi "Erzherzog Franz Ferdinand" "Viribus Unitis" "Prinz Eugen" Tegetthoff "Szent István" "Sankt Georg" "Kaiser Karl VI" "Kaisering und Königin Maria Theresia" Helgoland Saida "Admiral Spaun" Szigetvár Aspern Zenta "Kaiserin Elisabeth" "Kaiser Franz Joseph I" Leopard Panther "Kaiser Max" "Juan d'Austria" "Kronprinz Erzherzog Rudolf" "Kronprinzessin Erzherzogin Stephanie" Bodrog Enns Inn Körös Leitha Maros Sava Szamos Temes "Franz Joseph" Hess Tatra Balaton Csepel Lika Triglav Orjen Dukla Uzsog Huszár Ulan Streiter Wildfang Scharfschütze Usoke Tuul Pandúr Csikós Réka Dinara Velebit Warasdiner Magnet Satellit Trabant Planet Blitz Komet Meteor Alk Alligator Anaconda Delphin Drache Echse Greif Hai Hydra Kaiman Kormoran Krake Krokodil Molch Möwe Narwal Phönix Pinguin Polyp Schwalbe Seehund Skorpion Triton Wal "Hulk Adria" Feuerspeier Sebenico Spalato Hippos Büffel "Hulk Alpha" Zara "Hulk Gamma" Basilisk Dromedar Salamander Custoza "Hulk Schwarzenberg" Nautilus Albator Vulcan "Hulk Bellona" Pluto Najade Nixe Nymphe Miramar Lacroma Taurus Dalmat Cyclop Gäa Pelikan Vesta
         }
         constructor = {
-            Alpine Auböck Bernegger "Blaue Lagune" Brausewetter Elk Felbermayr Fröschl Gerstl Glorit Granit Habau Haider Hartl Herbitschek Hinteregger Implenia Kirschdorfer Kostmann MABA Maculan Mandlbauer Massivbau Pittel Porr Rhomberg Sandler Sedlak Strabag Swietelsky Teerag-Asdag Unger Voitl Waagner-Biro Wolf Zeman
+            Alpine Auböck Bernegger "Blaue Lagune" Brausewetter Elk Felbermayr Fröschl Gerstl Glorit Granit Habau Haider Hartl Herbitschek Hinteregger Implenia Kirschdorfer Kostmann MABA Maculan Mandlbauer Massivbau Pittel Porr Rhomberg Sandler Schreiner Sedlak Strabag Swietelsky Teerag-Asdag Unger Voitl Waagner-Biro Wolf Zeman
         }
     }
 
